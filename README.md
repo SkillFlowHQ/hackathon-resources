@@ -9,4 +9,4 @@ This repository contains various useful guides to improve your hackathon experie
 
 
 -------
-Copyright &copy;2017 SkillFlow, Inc. All rights reserved.
+*Copyright &copy;2017 SkillFlow, Inc. All rights reserved.*
