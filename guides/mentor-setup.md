@@ -61,3 +61,5 @@ If at any point in time you would like to speak to a member of the SkillFlow tea
 ----------
 ## That’s it! Enjoy the event!
 
+-------
+Copyright &copy;2017 SkillFlow, Inc. All rights reserved.
